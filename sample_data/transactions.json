@@ -1,0 +1,26 @@
+[
+  {
+    "transaction_id": "tx_101",
+    "user_id": "user_891",
+    "card_number_masked": "****-****-****-4112",
+    "amount": 42.50,
+    "currency": "USD",
+    "merchant_id": "merch_10",
+    "merchant_category": "grocery",
+    "location_lat": 40.7128,
+    "location_lon": -74.0060,
+    "timestamp": "2026-09-17T12:00:00Z"
+  },
+  {
+    "transaction_id": "tx_102",
+    "user_id": "user_892",
+    "card_number_masked": "****-****-****-9821",
+    "amount": 9200.00,
+    "currency": "USD",
+    "merchant_id": "merch_99",
+    "merchant_category": "crypto_exchange",
+    "location_lat": 34.0522,
+    "location_lon": -118.2437,
+    "timestamp": "2026-09-17T12:01:00Z"
+  }
+]
